@@ -5,4 +5,4 @@ Created JSON inventory system
 3. Multiple items cart
 4. Cashback offer on different amounts
 5. different things help to contribute more to the data which is stored in the sales file is crucial and enables us to find the demand.
-6. 
+   
